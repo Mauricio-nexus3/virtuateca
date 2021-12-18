@@ -405,6 +405,19 @@ color: var(--text-color-blue);
 
 /* ABOUT STYLING ---------- */
 
+#back-to-top {
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  border-radius: 100%;
+  border: 1px solid;
+  background: var(--gradient);
+color: var(--white-light);}
+.fa-arrow-up{
+  width: 3rem;
+}
+
+
 .about {
   background: var(--white-light);
 }
